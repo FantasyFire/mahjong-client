@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/FantasyFire/mahjong-client/issues"
   },
-  "homepage": "https://github.com/FantasyFire/mahjong-client#readme"
+  "homepage": "https://github.com/FantasyFire/mahjong-client#readme",
+  "devDependencies": {
+    "webpack": "^4.3.0"
+  },
+  "dependencies": {
+    "three": "^0.91.0"
+  }
 }
